@@ -1,0 +1,27 @@
+#curs div {
+  background: #673ab7;
+  width: 280px;
+  height: 570px;
+  border: 2px solid yellow;
+  border-radius: 10px;
+  border-style: double;
+  padding: 0px 10px 20px;
+  margin: 20px;
+  float: left
+}
+.contact-btn{
+  margin: auto;
+  font-family: 'Ubuntu';
+  font-size: 28px;
+  color: #ffffff !important;
+  padding: 4px 21px;
+  border-radius: 5px;
+  border: 1px ridge #ba8c00;
+  background: #f3f983;
+  font-color: black;
+}
+.examplebtn:hover {
+  color: #cccccc !important;
+  background: #f66d52;
+  background: linear-gradient(to top, #f66d52, #9e220a);
+}
